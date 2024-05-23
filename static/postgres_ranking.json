@@ -1,0 +1,18 @@
+[
+    {"contest_id": "contest1", "problem_id": "problem1", "user": "user1", "speed": 90, "correctness": 100, "edge_cases": 90, "penalty": 2, "submissions": 1},
+    {"contest_id": "contest1", "problem_id": "problem1", "user": "user2", "speed": 85, "correctness": 90, "edge_cases": 80, "penalty": 3, "submissions": 2},
+    {"contest_id": "contest1", "problem_id": "problem1", "user": "user3", "speed": 80, "correctness": 85, "edge_cases": 85, "penalty": 2, "submissions": 3},
+    {"contest_id": "contest1", "problem_id": "problem2", "user": "user1", "speed": 95, "correctness": 95, "edge_cases": 85, "penalty": 1, "submissions": 1},
+    {"contest_id": "contest1", "problem_id": "problem2", "user": "user2", "speed": 80, "correctness": 85, "edge_cases": 90, "penalty": 2, "submissions": 2},
+    {"contest_id": "contest1", "problem_id": "problem2", "user": "user3", "speed": 75, "correctness": 80, "edge_cases": 80, "penalty": 4, "submissions": 3},
+    {"contest_id": "contest2", "problem_id": "problem3", "user": "user4", "speed": 88, "correctness": 92, "edge_cases": 85, "penalty": 1.5, "submissions": 1},
+    {"contest_id": "contest2", "problem_id": "problem3", "user": "user5", "speed": 82, "correctness": 87, "edge_cases": 80, "penalty": 2, "submissions": 2},
+    {"contest_id": "contest2", "problem_id": "problem3", "user": "user6", "speed": 78, "correctness": 85, "edge_cases": 82, "penalty": 3, "submissions": 3},
+    {"contest_id": "contest2", "problem_id": "problem4", "user": "user4", "speed": 85, "correctness": 90, "edge_cases": 80, "penalty": 2, "submissions": 1},
+    {"contest_id": "contest2", "problem_id": "problem4", "user": "user5", "speed": 80, "correctness": 85, "edge_cases": 85, "penalty": 3, "submissions": 2},
+    {"contest_id": "contest2", "problem_id": "problem4", "user": "user6", "speed": 75, "correctness": 82, "edge_cases": 78, "penalty": 4, "submissions": 3},
+    {"contest_id": "contest2", "problem_id": "problem5", "user": "user7", "speed": 90, "correctness": 95, "edge_cases": 90, "penalty": 1, "submissions": 1},
+    {"contest_id": "contest2", "problem_id": "problem5", "user": "user8", "speed": 85, "correctness": 90, "edge_cases": 85, "penalty": 2, "submissions": 2},
+    {"contest_id": "contest2", "problem_id": "problem5", "user": "user9", "speed": 80, "correctness": 85, "edge_cases": 80, "penalty": 3, "submissions": 3},
+    {"contest_id": "contest2", "problem_id": "problem5", "user": "user10", "speed": 75, "correctness": 80, "edge_cases": 75, "penalty": 4, "submissions": 4}
+]
